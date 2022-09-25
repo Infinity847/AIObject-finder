@@ -1,0 +1,35 @@
+#header {
+    background-color:skyblue;
+    border-radius:15px;
+    box-shadow:5px 5px 38px skyblue;
+}
+body {
+    text-align:center;
+}
+h1,h2,h3,h4,h5,h6,p {
+    color:white;
+    font-family:Arial;
+}
+input {
+    background-color:skyblue;
+    border:2px solid lightblue;
+    box-shadow:5px 5px 38px;
+    color:white;
+}
+canvas {
+    box-shadow:5px 5px 38px skyblue;
+    border-radius:15px;
+    border:2px solid skyblue
+}
+button{
+    background-color:skyblue;
+    color:white;
+    border:2px solid lightblue;
+    box-shadow:5px 5px 38px skyblue;
+}
+button:hover {
+    background-color:skyblue;
+    color:rgb(95, 95, 255);
+    border:2px solid lightblue;
+    box-shadow:5px 5px 38px skyblue;
+}
